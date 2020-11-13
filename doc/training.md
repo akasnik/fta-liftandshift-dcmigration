@@ -1,4 +1,4 @@
 # Training Videos
 
-#### [prev](./resources.md) | [home](./welcome.md)  | [next](./faq.md)
+#### [prev](./resources.md) | [home](./welcome.md)  | [next](./welcome.md)
 
