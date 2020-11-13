@@ -19,4 +19,5 @@ performed based on this design.
 
 **Milestone Post Go-Live:** During this phase, each migration wave is handed over to Azure operations teams. 
 
-![Concept Diagram](/png/LiftandShift-dcmigration-workflow.png)
+![Concept Diagram](https://github.com/Azure/fta-liftandshift-dcmigration/blob/main/png/LiftandShift-dcmigration-workflow.PNG)
+
