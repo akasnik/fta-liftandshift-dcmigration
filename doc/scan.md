@@ -4,7 +4,7 @@
 
 ## Key Tasks
 
-**1: Scan Tool Planning and Implementation:** 
+**1 Scan Tool Planning and Implementation:** 
 
 &nbsp;&nbsp;&nbsp;&nbsp;1.1\.  Plan for scanning agents/appliances that will be needed to discover the state. 
  
@@ -23,6 +23,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;1.3\. Ensure scanning agents/appliances have been running for at least 7 days or more for accuracy of collected data.
 
-**2: Scan Document:** 
+**2 Scan Document:** 
 
 &nbsp;&nbsp;&nbsp;&nbsp;2.1\. Is the scan completed? If so, collect scan and upload to internal tracking systems.
