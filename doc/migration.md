@@ -1,4 +1,4 @@
-# Milestone: Migration Execution
+# Milestone: Waves' Migration and Post Go-Live 
 
-#### [prev](./landingzone.md) | [home](./welcome.md)  | [next](./postgolive.md)
+#### [prev](./testing.md) | [home](./welcome.md)  | [next](./faq.md)
 

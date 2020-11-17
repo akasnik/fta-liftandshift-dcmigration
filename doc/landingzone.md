@@ -1,6 +1,6 @@
 # Milestone: Design and Build Landing Zone
 
-#### [prev](./assess.md) | [home](./welcome.md)  | [next](./testing.md)
+#### [prev](./assess.md) | [home](./welcome.md)  | [next](./replication.md)
 
 ## Key Tasks
 

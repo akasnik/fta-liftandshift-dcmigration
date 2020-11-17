@@ -1,7 +1,7 @@
 
 # Milestone: Test Migration Waves
 
-#### [prev](./landingzone.md) | [home](./welcome.md)  | [next](./migration.md)
+#### [prev](./replication.md) | [home](./welcome.md)  | [next](./migration.md)
 
 ## Key Tasks
 
@@ -48,16 +48,19 @@
                                             
 **2 Testing Plans Definition:** 
 
-&nbsp;&nbsp;&nbsp;&nbsp;2.1\. Define Test Landing Zone
-
 &nbsp;&nbsp;&nbsp;&nbsp;2.1\. Define Smoke Test
 - &nbsp;&nbsp;&nbsp;&nbsp; Select which post-migration tasks need will be executed. (E.G. Validate login with local accounts, validate TCP/IP settings for DNS and IPv4).
-- &nbsp;&nbsp;&nbsp;&nbsp; This is usually led by server admins or partners.
+- &nbsp;&nbsp;&nbsp;&nbsp; This is usually led by server admins or migration partners.
 
-&nbsp;&nbsp;&nbsp;&nbsp;2.1\. Define UAT Test
+&nbsp;&nbsp;&nbsp;&nbsp;2.2\. Define UAT Test
 - &nbsp;&nbsp;&nbsp;&nbsp; Select which post-migration tasks need will be executed: (E.G. Validate application URL dependencies and access with domain accounts).
 - &nbsp;&nbsp;&nbsp;&nbsp; This is usually led by application owners.
 
-**3 Testing Execution:** 
+&nbsp;&nbsp;&nbsp;&nbsp;2.3\. Identify Test Landing Zone and Test Process
 
-&nbsp;&nbsp;&nbsp;&nbsp;3.1\. Execute Smote and UAT Test for each migration wave.
+![Concept Diagram](https://github.com/Azure/fta-liftandshift-dcmigration/blob/main/png/testmigration-workflow.PNG)
+
+
+**3.1 Testing Execution:** 
+
+&nbsp;&nbsp;&nbsp;&nbsp;3.1\. Execute Smoke and UAT Test for each migration wave.

@@ -15,9 +15,7 @@ performed based on this design.
 
 **Milestone End to End Test:** During this phase, typically missed but important, each migration wave identified during the Assess & Select Workload milestone is tested in Azure prior to the final cutover. Various test cases will be discussed during the presentation.
 
-**Milestone Migration:** During this phase, each migration wave is cutover to Azure and validated for expected functionality. 
-
-**Milestone Post Go-Live:** During this phase, each migration wave is handed over to Azure operations teams. 
+**Milestone Migration & Post Go-Live:** During this phase, each migration wave is cutover to Azure and validated for expected functionality. For Post Go-live, each migration wave is handed over to Azure operations teams for the defined soak period. 
 
 ![Concept Diagram](https://github.com/Azure/fta-liftandshift-dcmigration/blob/main/png/LiftandShift-dcmigration-workflow.PNG)
 
