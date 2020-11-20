@@ -2,9 +2,9 @@
 
 #### [prev](./assess.md) | [home](./welcome.md)  | [next](./replication.md)
 
-## Key Tasks
+The Landing Zone architecture and implementation will be defined by your specific company requirements. There is no Landing Zone architecture which is one-size fits all. The following content can be used as a checklist to incorporate within your migration project plan to ensure best practices.
 
-**1 Design AD Connect to AAD:** 
+## **1 Design AD Connect to AAD** 
 
 &nbsp;&nbsp;&nbsp;&nbsp;1.1\. Registration of custom domain in AAD.
 
@@ -12,7 +12,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;1.3\. Role assignments based on  Azure AD roles.
 
-**2 Design Governance:** 
+## **2 Design Governance** 
 
 &nbsp;&nbsp;&nbsp;&nbsp;2.1\. Use of Management Groups, number and purpose of Subscriptions.
 
@@ -30,26 +30,26 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;2.8\. Cost Management.
 
-**3 Design Vnet Topology:** 
+## **3 Design Vnet Topology** 
 
 &nbsp;&nbsp;&nbsp;&nbsp;3.1\. Hub and spoke or single vnet?
 
 &nbsp;&nbsp;&nbsp;&nbsp;3.2\. Subnets.
 
-**4 Design Hybrid Connectivity:** 
+## **4 Design Hybrid Connectivity** 
 
 &nbsp;&nbsp;&nbsp;&nbsp;4.1\. What services to use?
 
 - &nbsp;&nbsp;&nbsp;&nbsp;First Party: ExpressRoute, VPN, point to site, vWAN
 - &nbsp;&nbsp;&nbsp;&nbsp;Third Party: VPN NVAs
  
-**5 Design ADDS:** 
+## **5 Design ADDS** 
 
 &nbsp;&nbsp;&nbsp;&nbsp;5.1\. Number of forest and domains to sync?
 
 &nbsp;&nbsp;&nbsp;&nbsp;5.2\. How many domain controllers servers will be built?
 
-**6 Design DNS:** 
+## **6 Design DNS** 
 
 &nbsp;&nbsp;&nbsp;&nbsp;6.1\. Number of zones to sync.
 
@@ -59,7 +59,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;6.4\. Will DNS assignment be at NIC vs. Vnet scope if multiple zones?
 
-**7 Design DMZ(s):** 
+## **7 Design DMZ(s)** 
 
 &nbsp;&nbsp;&nbsp;&nbsp;7.1\. Need for public (Internet facing) and/or private (internal networks such as on-premises) separate DMZ infraestructure?
 
@@ -81,7 +81,7 @@
 
 - &nbsp;&nbsp;&nbsp;&nbsp;Spoke <-> Spoke
 
-**8 Design Management:** 
+## **8 Design Management:** 
 
 &nbsp;&nbsp;&nbsp;&nbsp;8.1\. Monitoring
 - &nbsp;&nbsp;&nbsp;&nbsp;Use of VM monitoring extensions?
@@ -102,7 +102,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;8.4\. Licensing (KMS, AHUB or PAYG)
 
-**9 Design BCDR:** 
+## **9 Design BCDR** 
 
 &nbsp;&nbsp;&nbsp;&nbsp;9.1\. Backup
 
@@ -112,4 +112,4 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;9.4\. What will be your secondary region?
 
-**10 Landing Zone Implementation based on Designs** 
+## **10 Landing Zone Implementation based on Designs** 

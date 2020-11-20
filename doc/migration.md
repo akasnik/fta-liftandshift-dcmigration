@@ -2,7 +2,7 @@
 
 #### [prev](./testing.md) | [home](./welcome.md)  | [next](./faq.md)
 
-**1 Cutover:** 
+## **1 Cutover** 
 
 &nbsp;&nbsp;&nbsp;&nbsp;1.1\. Identify cutover window, recommend for a Friday evening or weekend.
 
@@ -18,7 +18,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;1.4\. Ensure rollback plan is defined and ready for execution if needed.
 
-**2 Post Go-Live:** 
+## **2 Post Go-Live** 
 
 &nbsp;&nbsp;&nbsp;&nbsp;2.1\. Decommission of the source: Ensure source servers are decommisioned after soak period timeline.
 

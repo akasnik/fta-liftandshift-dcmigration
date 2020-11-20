@@ -2,11 +2,14 @@
 
 #### [prev](./landingzone.md) | [home](./welcome.md)  | [next](./testing.md)
 
-**1 Capacity Planning for cores quotas:** 
+The following content can be used as a checklist to incorporate within your migration project plan to ensure best practices.
+
+## **1 Capacity Planning for cores quotas** 
 
 &nbsp;&nbsp;&nbsp;&nbsp;1.1\. Ensure subscription quotas has been increased for target VM SKU sizes and Azure resources needed to be created for the specific region.
 
-**2 Replication Tools Planning and Implementation:** 
+## **2 Replication Tools Planning and Implementation** 
+&nbsp;&nbsp;&nbsp;&nbsp;2.1\.  Plan for replication agents/appliances that will be needed to replicate the migration waves. 
 
 ![Concept Diagram](https://github.com/Azure/fta-liftandshift-dcmigration/blob/main/png/replication-workflow.PNG)
 
@@ -21,7 +24,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;2.2\. Ensure hypervisor infrastructure has enough resources to handle additional load from replication appliances.
 
-**3 Replication:** 
+## **3 Replication** 
 
 &nbsp;&nbsp;&nbsp;&nbsp;3.1\. Consider running deployment planner to define:
 

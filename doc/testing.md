@@ -3,9 +3,9 @@
 
 #### [prev](./replication.md) | [home](./welcome.md)  | [next](./migration.md)
 
-## Key Tasks
+The following content can be used as a checklist to incorporate within your migration project plan to ensure best practices.
 
-**1 Pre & Post  Migration Activities Defined:** 
+## **1 Pre & Post  Migration Activities Defined** 
 
 &nbsp;&nbsp;&nbsp;&nbsp;1.1\. Business
 - &nbsp;&nbsp;&nbsp;&nbsp;Communication to Business Impact.
@@ -46,7 +46,7 @@
     - &nbsp;&nbsp;&nbsp;&nbsp; Tag Azure resources.
     - &nbsp;&nbsp;&nbsp;&nbsp; Postmortem and Learnings
                                             
-**2 Testing Plans Definition:** 
+## **2 Testing Plans Definition** 
 
 &nbsp;&nbsp;&nbsp;&nbsp;2.1\. Define Smoke Test
 - &nbsp;&nbsp;&nbsp;&nbsp; Select which post-migration tasks need will be executed. (E.G. Validate login with local accounts, validate TCP/IP settings for DNS and IPv4).
@@ -61,6 +61,6 @@
 ![Concept Diagram](https://github.com/Azure/fta-liftandshift-dcmigration/blob/main/png/testmigration-workflow.PNG)
 
 
-**3.1 Testing Execution:** 
+## **3 Testing Execution** 
 
 &nbsp;&nbsp;&nbsp;&nbsp;3.1\. Execute Smoke and UAT Test for each migration wave.
