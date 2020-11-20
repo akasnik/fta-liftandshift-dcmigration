@@ -14,7 +14,7 @@ Agenda
 3. [Assess and Select Migration Waves](./assess.md)
 4. [Design and Build Landing Zone](./landingzone.md)
 5. [Replication of Migration Waves](./replication.md)
-6. [Test Migration Waves](./testing.md)
+6. [End to End Test of Migration Waves](./testing.md)
 7. [Migration Waves Execution and Post Go-Live](./migration.md)
 8. [QnA](/faq.md)
 9. [Resources](./resources.md)

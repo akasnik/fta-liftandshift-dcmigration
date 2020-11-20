@@ -1,5 +1,5 @@
 
-# Milestone: Test Migration Waves
+# Milestone: End to End Test Migration Wave
 
 #### [prev](./replication.md) | [home](./welcome.md)  | [next](./migration.md)
 

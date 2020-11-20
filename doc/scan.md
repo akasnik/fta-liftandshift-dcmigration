@@ -1,4 +1,4 @@
-# Milestone: Scan State
+# Milestone: Scan
 
 #### [prev](./overview.md) | [home](./welcome.md)  | [next](./assess.md)
 
@@ -13,7 +13,7 @@
 - &nbsp;&nbsp;&nbsp;&nbsp;Reference Link A: https://docs.microsoft.com/en-us/azure/migrate/tutorial-discover-vmware#set-up-the-appliance
 - &nbsp;&nbsp;&nbsp;&nbsp;Reference Link B: https://docs.microsoft.com/en-us/azure/migrate/tutorial-discover-hyper-v#set-up-the-appliance
 - &nbsp;&nbsp;&nbsp;&nbsp;Reference Link C: 
-    - &nbsp;&nbsp;&nbsp;&nbsp;Other: https://docs.microsoft.com/en-us/azure/migrate/tutorial-discover-physical#set-up-the-appliance
+    - &nbsp;&nbsp;&nbsp;&nbsp;Physical/Other hypervisors: https://docs.microsoft.com/en-us/azure/migrate/tutorial-discover-physical#set-up-the-appliance
     - &nbsp;&nbsp;&nbsp;&nbsp;AWS: https://docs.microsoft.com/en-us/azure/migrate/tutorial-discover-aws#set-up-the-appliance
     - &nbsp;&nbsp;&nbsp;&nbsp;GCP: https://docs.microsoft.com/en-us/azure/migrate/tutorial-discover-gcp#set-up-the-appliance
 - &nbsp;&nbsp;&nbsp;&nbsp;Reference Link D: https://docs.microsoft.com/en-us/azure/migrate/how-to-create-group-machine-dependencies-agentless

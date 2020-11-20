@@ -6,19 +6,20 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;1.1\. Ensure subscription quotas has been increased for target VM SKU sizes and Azure resources needed to be created for the specific region.
 
-**2 Migration Tools Planning and Implementation:** 
+**2 Replication Tools Planning and Implementation:** 
 
-&nbsp;&nbsp;&nbsp;&nbsp;2.1\. Ensure subscription quotas has been increased for target VM SKU sizes and Azure resources needed to be created for the specific region.
+![Concept Diagram](https://github.com/Azure/fta-liftandshift-dcmigration/blob/main/png/replication-workflow.PNG)
 
-&nbsp;&nbsp;&nbsp;&nbsp;2.2\. Validate access to provision appliances and agents.
+- &nbsp;&nbsp;&nbsp;&nbsp;Reference Link A: https://docs.microsoft.com/en-us/azure/migrate/migrate-support-matrix-vmware-migration#vm-requirements-agentless
+- &nbsp;&nbsp;&nbsp;&nbsp;Reference Link B: https://docs.microsoft.com/en-us/azure/migrate/tutorial-migrate-vmware-agent
+- &nbsp;&nbsp;&nbsp;&nbsp;Reference Link C: https://docs.microsoft.com/en-us/azure/migrate/tutorial-migrate-vmware-powershell
+- &nbsp;&nbsp;&nbsp;&nbsp;Reference Link D: https://docs.microsoft.com/en-us/azure/migrate/tutorial-migrate-hyper-v
+- &nbsp;&nbsp;&nbsp;&nbsp;Reference Link E: 
+    - &nbsp;&nbsp;&nbsp;&nbsp;Physical/Other hypervisors: https://docs.microsoft.com/en-us/azure/migrate/tutorial-migrate-physical-virtual-machines
+    - &nbsp;&nbsp;&nbsp;&nbsp;AWS: https://docs.microsoft.com/en-us/azure/migrate/tutorial-migrate-aws-virtual-machines
+    - &nbsp;&nbsp;&nbsp;&nbsp;GCP: https://docs.microsoft.com/en-us/azure/migrate/tutorial-migrate-gcp-virtual-machines
 
-&nbsp;&nbsp;&nbsp;&nbsp;2.3\. Plan and Implement for number of appliances based on hypervisor or physical infrastructure.
-
-&nbsp;&nbsp;&nbsp;&nbsp;2.4\. Ensure replication appliances will scale (horizontal) to handle replication load.
-
-&nbsp;&nbsp;&nbsp;&nbsp;2.5\. Ensure hypervisor infrastructure has enough resources to handle additional load from replication appliances.
-
-&nbsp;&nbsp;&nbsp;&nbsp;2.6\. Plan and Implement for agent installation (mobility agent).
+&nbsp;&nbsp;&nbsp;&nbsp;2.2\. Ensure hypervisor infrastructure has enough resources to handle additional load from replication appliances.
 
 **3 Replication:** 
 

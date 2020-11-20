@@ -1,4 +1,4 @@
-# Milestone: Assess and Select Migration Waves
+# Milestone: Assess and Select Migration Wave
 
 #### [prev](./scan.md) | [home](./welcome.md)  | [next](./landingzone.md)
 
