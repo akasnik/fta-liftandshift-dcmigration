@@ -49,6 +49,8 @@ The following content can be used as a checklist to incorporate within your migr
 
 &nbsp;&nbsp;&nbsp;&nbsp;6.1\. Grouping of migration waves based on questionnaires and dependency analysis tooling. Typically a migration wave is a single application, however in tighly coupled environments a migration wave may be multiple applications. 
 
+&nbsp;&nbsp;&nbsp;&nbsp;Consider prioritizing order of migration waves based on this [recommended guidance](https://docs.microsoft.com/en-us/azure/migrate/concepts-migration-planning#prioritize-workloads).
+
 >**Tip**: If agentless dependency mapping was used and PowerBI access is available, leverage the Azure Migrate PowerBI integration to help visualize dependencies of groups of servers: https://github.com/Azure/azure-docs-powershell-samples/tree/master/azure-migrate/dependencies-at-scale
 
 &nbsp;&nbsp;&nbsp;&nbsp;6.2\. Creation and tuning of performance based assessments per migration wave in the Azure Migrate Project.
