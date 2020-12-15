@@ -6,7 +6,7 @@
 
 **Slideless** No PowerPoint, we promise! As we update this content you will get the changes straight away.
 
-Please give us your feedback on https://aka.ms/ftalive-liftandshift-dcmigration-feedback
+Please give us your feedback through our [feedback form](https://forms.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRxiaD-cKMr1HnTjcQK4A-x5UNUxTRTkxTkNISTBSOVExWTE3NU9NWVI2US4u) for this session!
 
 Agenda
 1. [Lift & Shift DC Migration Overview](./overview.md)
