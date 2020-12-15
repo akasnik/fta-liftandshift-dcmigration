@@ -5,6 +5,8 @@
 
 The following content can be used as a checklist to incorporate within your migration project plan to ensure best practices.
 
+**CAF Reference:** [Adopt - Business Testing](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/migration-considerations/optimize/business-test)
+
 ## **1 Pre & Post  Migration Activities Defined** 
 
 &nbsp;&nbsp;&nbsp;&nbsp;1.1\. Business

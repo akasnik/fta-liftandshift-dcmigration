@@ -4,6 +4,8 @@
 
 The following content can be used as a checklist to incorporate within your migration project plan to ensure best practices.
 
+**CAF Reference:** [Plan - Gather Inventory Data ](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/digital-estate/inventory)
+
 ## **1 Scan Tool Planning and Implementation** 
 
 &nbsp;&nbsp;&nbsp;&nbsp;1.1\.  Plan for scanning agents/appliances that will be needed to discover the state. 

@@ -4,6 +4,8 @@
 
 The Landing Zone architecture and implementation will be defined by your specific company requirements. There is no Landing Zone architecture which is one-size fits all. The following content can be used as a checklist to incorporate within your migration project plan to ensure best practices.
 
+**CAF Reference:** [Ready - Landing Zone Design Areas](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/design-areas)
+
 ## **1 Design AD Connect to AAD** 
 
 &nbsp;&nbsp;&nbsp;&nbsp;1.1\. Registration of custom domain in AAD.

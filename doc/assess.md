@@ -4,6 +4,8 @@
 
 The following content can be used as a checklist to incorporate within your migration project plan to ensure best practices.
 
+**CAF Reference:** [Plan - Digital Estate Assessment ](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/plan/contoso-migration-assessment)
+
 ## **1 Identify VM Readiness** 
 
 &nbsp;&nbsp;&nbsp;&nbsp;1.1\.  Identify VMs marked as "ready" for migration based on assessment.

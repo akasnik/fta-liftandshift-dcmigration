@@ -4,6 +4,8 @@
 
 The following content can be used as a checklist to incorporate within your migration project plan to ensure best practices.
 
+**CAF Reference:** [Adopt - Replicate Assets](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/migration-considerations/migrate/replicate)
+
 ## **1 Capacity Planning for cores quotas** 
 
 &nbsp;&nbsp;&nbsp;&nbsp;1.1\. Ensure subscription quotas has been increased for target VM SKU sizes and Azure resources needed to be created for the specific region.
