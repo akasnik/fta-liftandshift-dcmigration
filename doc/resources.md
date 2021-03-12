@@ -10,3 +10,4 @@
 - [Cloud Adoption Framework Series](https://channel9.msdn.com/Tags/cloud-adoption-framework-series)
 - [Well Architected Framework Series](https://channel9.msdn.com/Tags/well-architected-series)
 - [Cloud Adoption Framework (CAF)](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/)
+- [Sample migration runbook](https://github.com/akasnik/AzMigrateRunbook/blob/master/MigrationRunbook.md)
